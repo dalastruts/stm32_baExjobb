@@ -7,7 +7,7 @@ After moving abroad for further studies and changing computers, only selected
 code segments documented in my personal notes (OneNote) are currently available.
 
 Here's the original project structure:
-![Original project structure](images/original_structure.png)
+![Original project structure](project_structure.png)
 
 
 ## Future updates
