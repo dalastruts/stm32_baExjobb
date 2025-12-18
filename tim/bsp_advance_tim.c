@@ -1,7 +1,6 @@
 #include "./tim/bsp_advance_tim.h"
 #include "./key/bsp_key.h"  
 
-
  /**
   * @brief  高级控制定时器 TIMx,x[1,8]中断优先级配置
   * @param  无
@@ -68,8 +67,6 @@ static void TIM_Mode_Config(void)
 	// 使能定时器
 	//TIM_Cmd(ADVANCE_TIM, ENABLE);	
 	TIM_Cmd(ADVANCE_TIM, DISABLE);	
-	
-
 }
 
 /**
